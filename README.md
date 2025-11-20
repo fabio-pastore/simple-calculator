@@ -1,4 +1,4 @@
-# simple_calculator
+# simple-calculator
 A Java project for a simple calculator with GUI implemented through the use of the Swing framework. 
 
 Supported operations: addition, subtraction, multiplication, division, power, square root, absolute value and negation. 
